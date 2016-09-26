@@ -1,2 +1,3 @@
 # hello-world
-first test of Git Hub
+Just a simple branch to become familiar with Git Hub
+Not interesting but useful for me
